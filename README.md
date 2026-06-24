@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @ImogenJade
-- 👀 I’m interested in muay thai, capoeira, reading and the ocean. 
-- 🌱 I’m currently learning behaviour and decision science principles in business strategy, user journeys, design research and communications. 
-- 💞️ I’m looking to collaborate on interactive design, UX design and visual communication projects. 
+- 🌱 I’m currently learning more about behaviour and decision science.
+- 💞️ I’m looking to collaborate on behaviour science and visual communication projects. 
 - 📫 How to reach me - here on github or via email - imogen.jade.abandowitz@gmail.com 
-- ⚡ Fun fact: I play a left-handed guitar 
 
 <!---
 ImogenJade/ImogenJade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
